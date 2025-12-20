@@ -1,4 +1,4 @@
-# Hey, I'm Carlota 👋
+# Hi, I'm Carlota 👋
 
 **Computer Science @ University of Michigan** | Software Engineer | Builder
 
